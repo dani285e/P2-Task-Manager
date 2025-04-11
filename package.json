@@ -1,0 +1,26 @@
+{
+  "name": "p2-task-manager",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dani285e/P2-Task-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dani285e/P2-Task-Manager/issues"
+  },
+  "homepage": "https://github.com/dani285e/P2-Task-Manager#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
